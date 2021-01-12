@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCR_test", "NCR_test.csproj", "{10B1E867-5718-4D21-9B09-76647D300403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B1E867-5718-4D21-9B09-76647D300403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B1E867-5718-4D21-9B09-76647D300403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B1E867-5718-4D21-9B09-76647D300403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B1E867-5718-4D21-9B09-76647D300403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0AFF407-F11F-473B-9A01-DDF8E7700AD9}
+	EndGlobalSection
+EndGlobal
